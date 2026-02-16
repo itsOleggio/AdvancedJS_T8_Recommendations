@@ -1,6 +1,6 @@
 import data from '../data/etsy.json'
 import './App.css'
-import { Listing } from '../public/components/Listing/Listing'
+import { Listing } from './components/Listing/Listing'
 
 function App() {
   return (

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import type { ICard } from "../../../src/model/card.model"
-import {getStockClass} from '../../../src/utils/getStockClass'
+import type { ICard } from "../../model/card.model"
+import {getStockClass} from '../../utils/getStockClass'
 
 interface ItemProps {
     item: ICard;
