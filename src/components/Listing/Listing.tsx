@@ -45,7 +45,7 @@ export function Listing({ item }: ItemProps) {
                 <h3 className="product-title">{takeTitle(item.title)}</h3>
                 <div className="price-container">
                     <div className="product-price">{convertCost(item.currency_code ,item.price)}</div>
-                    <span className={`stock-badge ${stockClass}`}>{item.quantity}</span>
+                    <span className={`stock-badge ${stockClass}`}>{item.quantity} left</span>
                 </div>
             </div>
         </div>

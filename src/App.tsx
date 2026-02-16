@@ -1,11 +1,27 @@
 import data from '../data/etsy.json'
 import './App.css'
 import { Listing } from './components/Listing/Listing'
-import type { ICard } from './model/card.model.ts';
+
 
 function App() {
 
-  const filteredData = (data as ICard[]).filter(item => item.state === 'active');
+  // const filteredData = (data as ICard[]).filter(item => item.state === 'active');
+
+  const filteredData = data
+  .filter((item) => item.state === 'active')
+  .map((item) =>{
+    return{
+      listing_id: item.listing_id,
+      url: item.url || '',
+      MainImage: {
+        url_570xN: item.MainImage?.url_570xN || '',
+      },
+      title: item.title || '',
+      currency_code: item.currency_code || '',
+      price: item.price || '',
+      quantity: item.quantity || 0,
+    }
+  });
 
   return (
     <div className="container">

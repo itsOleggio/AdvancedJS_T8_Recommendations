@@ -4,7 +4,7 @@ export interface ICard{
     MainImage: {
         url_570xN: string;
     };
-    title?: string;
+    title: string;
     currency_code: string;
     price: string;
     quantity: number;
