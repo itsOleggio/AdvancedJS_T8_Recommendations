@@ -38,7 +38,7 @@ AdvancedJS_T8_Recommendations/
 
 ## Запуск программы
 
-Сборка программы: `npm run build`
-Запуск программы: `npm run dev`
-Привью программы: `npm run preview`
-.
+- Сборка программы: `npm run build`
+- Запуск программы: `npm run dev`
+- Привью программы: `npm run preview`
+
