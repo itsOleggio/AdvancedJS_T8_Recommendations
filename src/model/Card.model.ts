@@ -8,4 +8,6 @@ export interface ICard{
     currency_code: string;
     price: string;
     quantity: number;
+    state: 'active' | 'removed'
 }
+

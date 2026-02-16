@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import type { ICard } from "../../model/card.model"
 import {getStockClass} from '../../utils/getStockClass'
 
@@ -8,20 +7,16 @@ interface ItemProps {
 
 export function Listing({ item }: ItemProps) {
 
-    const [title, setTitle] = useState<string>('');
-    let stockClass: string = getStockClass(item.quantity)
-    
-    useEffect(() => {
-        if (!item || !item.title) {
-            setTitle('');
-            return;
-        }
-        if (item.title.length <= 50) {
-            setTitle(item.title)
+    const stockClass: string = getStockClass(item.quantity)
+
+    const takeTitle = (title: string | undefined): string => {
+        if(!title) return '';
+        if (title.length <= 50) {
+            return title;
         } else {
-            setTitle(item.title.slice(0, 50) + '...')
+            return title.slice(0, 50) + '...';
         }
-    }, [item.title])
+    }
 
     const convertCost = (currency: string, price: string) => {
     let finalPrice: string; 
@@ -37,7 +32,7 @@ export function Listing({ item }: ItemProps) {
                  finalPrice = '£' + price;
                  break;
             default:
-                 finalPrice = 'CAD' + price;
+                 finalPrice = 'CAD ' + price;
                  break
         }
     return finalPrice;
@@ -45,9 +40,9 @@ export function Listing({ item }: ItemProps) {
 
     return (
         <div className="product-card">
-            <img src={item.MainImage?.url_570xN} alt={title} className="product-image" />
+            <img src={item.MainImage?.url_570xN} alt={item.title} className="product-image" />
             <div className="product-info">
-                <h3 className="product-title">{title}</h3>
+                <h3 className="product-title">{takeTitle(item.title)}</h3>
                 <div className="price-container">
                     <div className="product-price">{convertCost(item.currency_code ,item.price)}</div>
                     <span className={`stock-badge ${stockClass}`}>{item.quantity}</span>
