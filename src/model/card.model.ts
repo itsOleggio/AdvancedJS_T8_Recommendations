@@ -1,14 +1,12 @@
-export interface ICard{
-    listing_id: number;
-    url: string;
-    MainImage: {
-        url_570xN: string;
-    };
-    title: string;
-    currency_code: string;
-    price: string;
-    quantity: number;
-    // state: 'active' | 'removed' // доп. свойства для отображения только актуальных продуктов
+export interface ICard {
+  listing_id: number;
+  url: string;
+  MainImage: {
+    url_570xN: string;
+  };
+  title: string;
+  currency_code: string;
+  price: string;
+  quantity: number;
+  // state: 'active' | 'removed' // доп. свойства для отображения только актуальных продуктов
 }
-
-

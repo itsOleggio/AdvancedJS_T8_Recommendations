@@ -14,21 +14,10 @@
     "currency_code": "USD",
     "quantity": 1,
     "sku": [],
-    "tags": [
-      "Natural",
-      "Handmade",
-      "No Treatment",
-      "Pear"
-    ],
-    "category_path": [
-      "Supplies"
-    ],
-    "category_path_ids": [
-      69150433
-    ],
-    "materials": [
-      "Gemstone"
-    ],
+    "tags": ["Natural", "Handmade", "No Treatment", "Pear"],
+    "category_path": ["Supplies"],
+    "category_path_ids": [69150433],
+    "materials": ["Gemstone"],
     "shop_section_id": 23048716,
     "featured_rank": null,
     "state_tsz": 1563354764,
@@ -116,14 +105,8 @@
       "hippopotamus jewelry",
       "purple hippo charm"
     ],
-    "category_path": [
-      "Accessories",
-      "Charm"
-    ],
-    "category_path_ids": [
-      69150467,
-      69155215
-    ],
+    "category_path": ["Accessories", "Charm"],
+    "category_path_ids": [69150467, 69155215],
     "materials": [],
     "shop_section_id": 14601645,
     "featured_rank": null,
@@ -210,12 +193,8 @@
       "unicorn embroidery",
       "unicorns"
     ],
-    "category_path": [
-      "Supplies"
-    ],
-    "category_path_ids": [
-      69150433
-    ],
+    "category_path": ["Supplies"],
+    "category_path_ids": [69150433],
     "materials": [],
     "shop_section_id": 22036285,
     "featured_rank": null,
@@ -304,16 +283,8 @@
       "samsung S10 case",
       "iPhone X case"
     ],
-    "category_path": [
-      "Accessories",
-      "Case",
-      "Cell Phone"
-    ],
-    "category_path_ids": [
-      69150467,
-      68892196,
-      69188171
-    ],
+    "category_path": ["Accessories", "Case", "Cell Phone"],
+    "category_path_ids": [69150467, 68892196, 69188171],
     "materials": [],
     "shop_section_id": 26497343,
     "featured_rank": null,
@@ -402,12 +373,8 @@
       "He left the 99",
       "to rescue me svg"
     ],
-    "category_path": [
-      "Supplies"
-    ],
-    "category_path_ids": [
-      69150433
-    ],
+    "category_path": ["Supplies"],
+    "category_path_ids": [69150433],
     "materials": [],
     "shop_section_id": 26710890,
     "featured_rank": null,
@@ -491,15 +458,9 @@
       "Butterfly",
       "Multi"
     ],
-    "category_path": [
-      "Supplies"
-    ],
-    "category_path_ids": [
-      69150433
-    ],
-    "materials": [
-      "cotton"
-    ],
+    "category_path": ["Supplies"],
+    "category_path_ids": [69150433],
+    "materials": ["cotton"],
     "shop_section_id": 18963406,
     "featured_rank": null,
     "state_tsz": 1563354751,
@@ -530,11 +491,7 @@
     "language": "en-US",
     "has_variations": true,
     "taxonomy_id": 6451,
-    "taxonomy_path": [
-      "Craft Supplies & Tools",
-      "Fabric & Notions",
-      "Fabric"
-    ],
+    "taxonomy_path": ["Craft Supplies & Tools", "Fabric & Notions", "Fabric"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1992784565,
@@ -571,9 +528,7 @@
     "price": "10.00",
     "currency_code": "USD",
     "quantity": 48,
-    "sku": [
-      "LEATHER CIRCLES"
-    ],
+    "sku": ["LEATHER CIRCLES"],
     "tags": [
       "leather die cut",
       "crafts leather",
@@ -588,15 +543,9 @@
       "circles",
       "leather cut outs"
     ],
-    "category_path": [
-      "Supplies"
-    ],
-    "category_path_ids": [
-      69150433
-    ],
-    "materials": [
-      "genuine leather"
-    ],
+    "category_path": ["Supplies"],
+    "category_path_ids": [69150433],
+    "materials": ["genuine leather"],
     "shop_section_id": 17029014,
     "featured_rank": null,
     "state_tsz": 1524083931,
@@ -627,11 +576,7 @@
     "language": "en-US",
     "has_variations": true,
     "taxonomy_id": 6353,
-    "taxonomy_path": [
-      "Craft Supplies & Tools",
-      "Raw Materials",
-      "Leather"
-    ],
+    "taxonomy_path": ["Craft Supplies & Tools", "Raw Materials", "Leather"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1148177586,
@@ -683,16 +628,8 @@
       "Lol surprise",
       "Lol  phone case"
     ],
-    "category_path": [
-      "Accessories",
-      "Case",
-      "Cell Phone"
-    ],
-    "category_path_ids": [
-      69150467,
-      68892196,
-      69188171
-    ],
+    "category_path": ["Accessories", "Case", "Cell Phone"],
+    "category_path_ids": [69150467, 68892196, 69188171],
     "materials": [],
     "shop_section_id": 26497343,
     "featured_rank": null,
@@ -765,10 +702,7 @@
     "price": "31.00",
     "currency_code": "USD",
     "quantity": 4,
-    "sku": [
-      "2123377",
-      "2123371"
-    ],
+    "sku": ["2123377", "2123371"],
     "tags": [
       "ear cuff",
       "gold ear cuff",
@@ -784,17 +718,9 @@
       "jewelry",
       "minimalist ear cuff"
     ],
-    "category_path": [
-      "Jewelry",
-      "Earrings"
-    ],
-    "category_path_ids": [
-      68887482,
-      69151501
-    ],
-    "materials": [
-      "gold filled earrings"
-    ],
+    "category_path": ["Jewelry", "Earrings"],
+    "category_path_ids": [68887482, 69151501],
+    "materials": ["gold filled earrings"],
     "shop_section_id": 14556187,
     "featured_rank": 2,
     "state_tsz": 1559648252,
@@ -816,10 +742,7 @@
     "is_private": false,
     "recipient": "women",
     "occasion": null,
-    "style": [
-      "Minimalist",
-      "Modern"
-    ],
+    "style": ["Minimalist", "Modern"],
     "non_taxable": false,
     "is_customizable": true,
     "is_digital": false,
@@ -828,11 +751,7 @@
     "language": "en-US",
     "has_variations": true,
     "taxonomy_id": 1207,
-    "taxonomy_path": [
-      "Jewelry",
-      "Earrings",
-      "Cuff & Wrap Earrings"
-    ],
+    "taxonomy_path": ["Jewelry", "Earrings", "Cuff & Wrap Earrings"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 996607458,
@@ -869,9 +788,7 @@
     "price": "14.00",
     "currency_code": "USD",
     "quantity": 4,
-    "sku": [
-      "RB1"
-    ],
+    "sku": ["RB1"],
     "tags": [
       "thin gold ring",
       "tiny ring",
@@ -887,14 +804,8 @@
       "above knuckle",
       "gift for her"
     ],
-    "category_path": [
-      "Jewelry",
-      "Ring"
-    ],
-    "category_path_ids": [
-      68887482,
-      69152047
-    ],
+    "category_path": ["Jewelry", "Ring"],
+    "category_path_ids": [68887482, 69152047],
     "materials": [
       "gold ring",
       "stack ring",
@@ -922,10 +833,7 @@
     "is_private": false,
     "recipient": null,
     "occasion": null,
-    "style": [
-      "Minimalist",
-      "Modern"
-    ],
+    "style": ["Minimalist", "Modern"],
     "non_taxable": false,
     "is_customizable": true,
     "is_digital": false,
@@ -934,11 +842,7 @@
     "language": "en-US",
     "has_variations": true,
     "taxonomy_id": 1239,
-    "taxonomy_path": [
-      "Jewelry",
-      "Rings",
-      "Stackable Rings"
-    ],
+    "taxonomy_path": ["Jewelry", "Rings", "Stackable Rings"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 465091672,
@@ -975,18 +879,10 @@
     "price": "5.00",
     "currency_code": "EUR",
     "quantity": 7,
-    "sku": [
-      "10"
-    ],
+    "sku": ["10"],
     "tags": [],
-    "category_path": [
-      "Art",
-      "Fiber Art"
-    ],
-    "category_path_ids": [
-      68887312,
-      68891802
-    ],
+    "category_path": ["Art", "Fiber Art"],
+    "category_path_ids": [68887312, 68891802],
     "materials": [],
     "shop_section_id": 26216755,
     "featured_rank": null,
@@ -1018,11 +914,7 @@
     "language": "MACHINE_en",
     "has_variations": false,
     "taxonomy_id": 88,
-    "taxonomy_path": [
-      "Art & Collectibles",
-      "Fiber Arts",
-      "Embroidery"
-    ],
+    "taxonomy_path": ["Art & Collectibles", "Fiber Arts", "Embroidery"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1877436478,
@@ -1075,14 +967,8 @@
       "lucky keepsake",
       "engraved keyring him"
     ],
-    "category_path": [
-      "Accessories",
-      "Keychain"
-    ],
-    "category_path_ids": [
-      69150467,
-      69154275
-    ],
+    "category_path": ["Accessories", "Keychain"],
+    "category_path_ids": [69150467, 69154275],
     "materials": [],
     "shop_section_id": 23423116,
     "featured_rank": null,
@@ -1114,11 +1000,7 @@
     "language": "en-US",
     "has_variations": false,
     "taxonomy_id": 165,
-    "taxonomy_path": [
-      "Accessories",
-      "Keychains & Lanyards",
-      "Keychains"
-    ],
+    "taxonomy_path": ["Accessories", "Keychains & Lanyards", "Keychains"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1856646811,
@@ -1170,15 +1052,9 @@
       "Sweets",
       "Harry Potter"
     ],
-    "category_path": [
-      "Plants and Edibles"
-    ],
-    "category_path_ids": [
-      68887346
-    ],
-    "materials": [
-      "Belgium chocolate"
-    ],
+    "category_path": ["Plants and Edibles"],
+    "category_path_ids": [68887346],
+    "materials": ["Belgium chocolate"],
     "shop_section_id": null,
     "featured_rank": null,
     "state_tsz": 1563228101,
@@ -1209,12 +1085,7 @@
     "language": "en-US",
     "has_variations": true,
     "taxonomy_id": 943,
-    "taxonomy_path": [
-      "Home & Living",
-      "Food & Drink",
-      "Candy",
-      "Chocolates"
-    ],
+    "taxonomy_path": ["Home & Living", "Food & Drink", "Candy", "Chocolates"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1735985143,
@@ -1267,12 +1138,8 @@
       "svg for home decor",
       "svg love quote"
     ],
-    "category_path": [
-      "Supplies"
-    ],
-    "category_path_ids": [
-      69150433
-    ],
+    "category_path": ["Supplies"],
+    "category_path_ids": [69150433],
     "materials": [],
     "shop_section_id": 23493620,
     "featured_rank": null,
@@ -1304,9 +1171,7 @@
     "language": "en-US",
     "has_variations": false,
     "taxonomy_id": 562,
-    "taxonomy_path": [
-      "Craft Supplies & Tools"
-    ],
+    "taxonomy_path": ["Craft Supplies & Tools"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1433446966,
@@ -1359,17 +1224,9 @@
       "Adele t shirt",
       "Adele singer"
     ],
-    "category_path": [
-      "Clothing",
-      "Shirt"
-    ],
-    "category_path_ids": [
-      69150353,
-      68889876
-    ],
-    "materials": [
-      "Microfiber"
-    ],
+    "category_path": ["Clothing", "Shirt"],
+    "category_path_ids": [69150353, 68889876],
+    "materials": ["Microfiber"],
     "shop_section_id": 26705758,
     "featured_rank": null,
     "state_tsz": 1563354744,
@@ -1459,18 +1316,9 @@
       "tv necklace dr",
       "dr party favors"
     ],
-    "category_path": [
-      "Jewelry",
-      "Necklace"
-    ],
-    "category_path_ids": [
-      68887482,
-      69151567
-    ],
-    "materials": [
-      "Silver",
-      "Faux leather"
-    ],
+    "category_path": ["Jewelry", "Necklace"],
+    "category_path_ids": [68887482, 69151567],
+    "materials": ["Silver", "Faux leather"],
     "shop_section_id": 20225333,
     "featured_rank": null,
     "state_tsz": 1562238022,
@@ -1501,11 +1349,7 @@
     "language": "en-US",
     "has_variations": true,
     "taxonomy_id": 1222,
-    "taxonomy_path": [
-      "Jewelry",
-      "Necklaces",
-      "Charm Necklaces"
-    ],
+    "taxonomy_path": ["Jewelry", "Necklaces", "Charm Necklaces"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1855443173,
@@ -1557,21 +1401,9 @@
       "modern",
       "art deco"
     ],
-    "category_path": [
-      "Housewares",
-      "Home Decor"
-    ],
-    "category_path_ids": [
-      69150425,
-      68892008
-    ],
-    "materials": [
-      "Ton",
-      "Oxid",
-      "Sandstein",
-      "Bambus",
-      "Kleber"
-    ],
+    "category_path": ["Housewares", "Home Decor"],
+    "category_path_ids": [69150425, 68892008],
+    "materials": ["Ton", "Oxid", "Sandstein", "Bambus", "Kleber"],
     "shop_section_id": 13648206,
     "featured_rank": null,
     "state_tsz": 1532519361,
@@ -1602,11 +1434,7 @@
     "language": "en-US",
     "has_variations": false,
     "taxonomy_id": 2869,
-    "taxonomy_path": [
-      "Home & Living",
-      "Home Décor",
-      "Statues"
-    ],
+    "taxonomy_path": ["Home & Living", "Home Décor", "Statues"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1617195081,
@@ -1643,9 +1471,7 @@
     "price": "334.99",
     "currency_code": "USD",
     "quantity": 2,
-    "sku": [
-      "RR-343"
-    ],
+    "sku": ["RR-343"],
     "tags": [
       "Area Rug",
       "Made To Order Rug",
@@ -1661,15 +1487,9 @@
       "Circular Rug",
       "Cotton Rug"
     ],
-    "category_path": [
-      "Housewares"
-    ],
-    "category_path_ids": [
-      69150425
-    ],
-    "materials": [
-      "Cotton"
-    ],
+    "category_path": ["Housewares"],
+    "category_path_ids": [69150425],
+    "materials": ["Cotton"],
     "shop_section_id": 25900296,
     "featured_rank": null,
     "state_tsz": 1563354743,
@@ -1700,11 +1520,7 @@
     "language": "en-US",
     "has_variations": false,
     "taxonomy_id": 929,
-    "taxonomy_path": [
-      "Home & Living",
-      "Floor & Rugs",
-      "Rugs"
-    ],
+    "taxonomy_path": ["Home & Living", "Floor & Rugs", "Rugs"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1945218014,
@@ -1756,16 +1572,8 @@
       "iphone 8 plus case",
       "iphone XS max case"
     ],
-    "category_path": [
-      "Accessories",
-      "Case",
-      "Cell Phone"
-    ],
-    "category_path_ids": [
-      69150467,
-      68892196,
-      69188171
-    ],
+    "category_path": ["Accessories", "Case", "Cell Phone"],
+    "category_path_ids": [69150467, 68892196, 69188171],
     "materials": [],
     "shop_section_id": 26497343,
     "featured_rank": null,
@@ -1854,16 +1662,8 @@
       "iPhone case",
       "Google pixel 2Xl 3Xl case"
     ],
-    "category_path": [
-      "Accessories",
-      "Case",
-      "Cell Phone"
-    ],
-    "category_path_ids": [
-      69150467,
-      68892196,
-      69188171
-    ],
+    "category_path": ["Accessories", "Case", "Cell Phone"],
+    "category_path_ids": [69150467, 68892196, 69188171],
     "materials": [],
     "shop_section_id": 26497343,
     "featured_rank": null,
@@ -1937,19 +1737,9 @@
     "currency_code": "USD",
     "quantity": 1,
     "sku": [],
-    "tags": [
-      "waldorf doll",
-      "natural",
-      "doll",
-      "soft toy",
-      "ooak"
-    ],
-    "category_path": [
-      "Toys"
-    ],
-    "category_path_ids": [
-      69150393
-    ],
+    "tags": ["waldorf doll", "natural", "doll", "soft toy", "ooak"],
+    "category_path": ["Toys"],
+    "category_path_ids": [69150393],
     "materials": [
       "mohair weft",
       "laib yala",
@@ -1990,11 +1780,7 @@
     "language": "en-US",
     "has_variations": false,
     "taxonomy_id": 2097,
-    "taxonomy_path": [
-      "Art & Collectibles",
-      "Dolls & Miniatures",
-      "Art Dolls"
-    ],
+    "taxonomy_path": ["Art & Collectibles", "Dolls & Miniatures", "Art Dolls"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1828699581,
@@ -2031,9 +1817,7 @@
     "price": "26.99",
     "currency_code": "USD",
     "quantity": 1,
-    "sku": [
-      "AC-170"
-    ],
+    "sku": ["AC-170"],
     "tags": [
       "Montana Agate",
       "Agate",
@@ -2049,12 +1833,8 @@
       "Loose Cabochon",
       "Smooth Montana Agate"
     ],
-    "category_path": [
-      "Supplies"
-    ],
-    "category_path_ids": [
-      69150433
-    ],
+    "category_path": ["Supplies"],
+    "category_path_ids": [69150433],
     "materials": [
       "Montana Agate",
       "Agate",
@@ -2126,9 +1906,7 @@
     "listing_id": 638003203,
     "state": "removed",
     "sku": [],
-    "error_messages": [
-      "Access denied on association MainImage"
-    ]
+    "error_messages": ["Access denied on association MainImage"]
   },
   {
     "listing_id": 656758345,
@@ -2160,14 +1938,8 @@
       "Gift for cyclists",
       "Olive backpack"
     ],
-    "category_path": [
-      "Bags and Purses",
-      "Backpack"
-    ],
-    "category_path_ids": [
-      69150455,
-      68888604
-    ],
+    "category_path": ["Bags and Purses", "Backpack"],
+    "category_path_ids": [69150455, 68888604],
     "materials": [
       "bridle leather",
       "cotton webbing",
@@ -2195,9 +1967,7 @@
     "is_private": false,
     "recipient": "unisex_adults",
     "occasion": null,
-    "style": [
-      "Minimalist"
-    ],
+    "style": ["Minimalist"],
     "non_taxable": false,
     "is_customizable": false,
     "is_digital": false,
@@ -2206,10 +1976,7 @@
     "language": "en-US",
     "has_variations": false,
     "taxonomy_id": 136,
-    "taxonomy_path": [
-      "Bags & Purses",
-      "Backpacks"
-    ],
+    "taxonomy_path": ["Bags & Purses", "Backpacks"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1929922756,
@@ -2246,9 +2013,7 @@
     "price": "21.41",
     "currency_code": "USD",
     "quantity": 866,
-    "sku": [
-      "CharlotteFont"
-    ],
+    "sku": ["CharlotteFont"],
     "tags": [
       "custom wooden name",
       "wooden name",
@@ -2264,14 +2029,8 @@
       "wood letter name",
       "office"
     ],
-    "category_path": [
-      "Housewares",
-      "Office"
-    ],
-    "category_path_ids": [
-      69150425,
-      68892024
-    ],
+    "category_path": ["Housewares", "Office"],
+    "category_path_ids": [69150425, 68892024],
     "materials": [],
     "shop_section_id": 18551718,
     "featured_rank": 1,
@@ -2303,10 +2062,7 @@
     "language": "en-US",
     "has_variations": true,
     "taxonomy_id": 1096,
-    "taxonomy_path": [
-      "Home & Living",
-      "Office"
-    ],
+    "taxonomy_path": ["Home & Living", "Office"],
     "used_manufacturer": false,
     "MainImage": {
       "listing_image_id": 1879782788,
